@@ -6,14 +6,32 @@
     <description>Sleepy Story content tailored for Adults - Test Name</description>
     <language>en</language>
     <copyright>Copyright 2025 Test Name</copyright>
-    <lastBuildDate>Fri, 22 Aug 2025 11:14:32 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 11:33:17 +0200</lastBuildDate>
     <pubDate>Fri, 22 Aug 2025 11:14:32 +0200</pubDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <ttl>90</ttl>
     <dc:publisher>Test Name</dc:publisher>
     <dc:language>en</dc:language>
     <dc:rights>Copyright 2025 Test Name</dc:rights>
-    <dc:date>2025-08-22T11:14:32Z</dc:date>
+    <dc:date>2025-08-22T11:33:17Z</dc:date>
     <dc:source>Test Name</dc:source>
+    <item>
+      <title>Test Name 20250822 Article 2</title>
+      <link>https://mrbiddz.github.io/production_rss_feeds/test_name_testid/articles/784d3c79fc3445c3.html</link>
+      <description>From Quiet Beginnings to Gentle Greatness - As the years drifted by like soft clouds over Madeira, the young dreamer's talent began to bloom like flowers in spring. At twelve, Cristiano made the...</description>
+      <pubDate>Fri, 22 Aug 2025 09:33:17 +0200</pubDate>
+      <guid>2aa21f42-eb89-4839-9d18-297c5a61bcdf</guid>
+      <dc:date>2025-08-22T09:33:17Z</dc:date>
+      <content:encoded>&lt;![CDATA[ &lt;h2&gt;From Quiet Beginnings to Gentle Greatness&lt;/h2&gt;&lt;p&gt;As the years drifted by like soft clouds over Madeira, the young dreamer's talent began to bloom like flowers in spring. At twelve, Cristiano made the gentle journey to Lisbon, leaving behind the familiar comfort of island life for the quiet halls of Sporting CP's academy. The transition was like moving from a peaceful cove to a larger, calmer sea.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;In those serene training grounds, surrounded by whispering eucalyptus trees, his skills flourished. Coaches would watch in quiet amazement as this island boy moved with the ball as if it were an old friend. His dedication was like the steady rhythm of ocean waves – consistent, powerful, yet peaceful.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The story continued to unfold gently when, at eighteen, he crossed the channel to Manchester, where Sir Alex Ferguson welcomed him like a father. The English rain fell softly on Old Trafford as he first stepped onto that hallowed pitch, wearing the number seven jersey with quiet pride. Then came the sun-drenched years in Madrid, where he danced through defenses like evening light through olive groves.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Now, as we reflect on this journey from a small Portuguese island to the grand stages of world football, we see not just athletic achievement, but a gentle reminder that dreams, nurtured with patience and dedication, can grow as vast as the ocean itself. Tonight, rest easy knowing that sometimes the most beautiful stories begin in the quietest places.&lt;/p&gt; ]]&gt;</content:encoded>
+    </item>
+    <item>
+      <title>Test Name 20250822 Article 1</title>
+      <link>https://mrbiddz.github.io/production_rss_feeds/test_name_testid/articles/6b66735007f24a12.html</link>
+      <description>A Dream Born on Madeira's Gentle Shores - On a peaceful February evening in 1985, beneath the starlit skies of Funchal, Madeira, a child was born who would one day touch the hearts of millions...</description>
+      <pubDate>Fri, 22 Aug 2025 10:33:17 +0200</pubDate>
+      <guid>ca65eb6a-f003-4ca6-b379-a26107d8f73f</guid>
+      <dc:date>2025-08-22T10:33:17Z</dc:date>
+      <content:encoded>&lt;![CDATA[ &lt;h2&gt;A Dream Born on Madeira's Gentle Shores&lt;/h2&gt;&lt;p&gt;On a peaceful February evening in 1985, beneath the starlit skies of Funchal, Madeira, a child was born who would one day touch the hearts of millions. Cristiano Ronaldo dos Santos Aveiro entered the world quietly, his small hands already seeming to reach for something greater. His mother, Maria Dolores, would often tell the story of how even as a baby, he seemed restless, as if dreaming of distant fields and cheering crowds.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Growing up in the gentle hills of Madeira, young Cristiano found solace in the simple rhythm of a football against his feet. The cobblestone streets echoed softly with the sound of his practice, hour after peaceful hour. His father José worked quietly as a kit man at a local club, and sometimes little Cristiano would sit in the warm evening air, watching the older players with wonder-filled eyes.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The island breeze would carry the scent of ocean salt as the boy practiced alone, dreaming under the Portuguese sun. His family lived simply, but their home was filled with love and quiet encouragement. Each sunset brought new dreams, and each gentle dawn brought renewed determination. The young boy from Madeira was beginning to weave the first threads of a story that would span continents, though for now, he was content with the peaceful rhythm of ball against foot, and the endless blue horizon stretching before him.&lt;/p&gt; ]]&gt;</content:encoded>
+    </item>
   </channel>
 </rss>
