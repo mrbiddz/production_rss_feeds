@@ -6,14 +6,14 @@
     <description>Sleepy Story content tailored for Adults - Test Name</description>
     <language>en</language>
     <copyright>Copyright 2025 Test Name</copyright>
-    <lastBuildDate>Fri, 22 Aug 2025 12:44:29 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 12:52:27 +0200</lastBuildDate>
     <pubDate>Fri, 22 Aug 2025 12:03:09 +0200</pubDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <ttl>90</ttl>
     <dc:publisher>Test Name</dc:publisher>
     <dc:language>en</dc:language>
     <dc:rights>Copyright 2025 Test Name</dc:rights>
-    <dc:date>2025-08-22T12:44:29Z</dc:date>
+    <dc:date>2025-08-22T12:52:27Z</dc:date>
     <dc:source>Test Name</dc:source>
     <item>
       <title>Test Name 20250822 Article 2</title>
@@ -34,6 +34,26 @@
       <dc:date>2025-08-22T11:44:29Z</dc:date>
       <feedArticleNumber>9999</feedArticleNumber>
       <content:encoded>&lt;![CDATA[ &lt;h2&gt;The Dreamer from Madeira&lt;/h2&gt;&lt;p&gt;On a gentle island in the Atlantic Ocean, where the waves whisper against volcanic shores, a young boy named Cristiano was born in the quiet town of Funchal. The year was 1985, and the February air carried the soft scent of ocean mist through the humble streets of Madeira. His family lived simply, his father working as a gardener, tending to the island's lush greenery with patient hands. His mother, a caring cook, filled their small home with warmth and the comforting aroma of traditional Portuguese meals.&lt;/p&gt;&lt;p&gt;Young Cristiano would drift off to sleep each night, dreaming of something greater beyond the peaceful shores of his island home. The sound of his own heartbeat seemed to echo the rhythm of a bouncing ball, even in his quietest moments. His childhood was painted with the golden hues of sunset football games on dusty fields, where barefoot children chased their dreams as the day slowly melted into evening. The gentle trade winds would carry his laughter across the terraced hillsides, where banana trees swayed in their eternal dance. In those early years, surrounded by the tranquil beauty of Madeira, a spark was quietly growing – a dream that would one day carry him far from these serene shores, but never far from his heart.&lt;/p&gt; ]]&gt;</content:encoded>
+    </item>
+    <item>
+      <title>Test Name 20250822 Article 2</title>
+      <link>https://mrbiddz.github.io/production_rss_feeds/test_name_neu/articles/47fc2ac5a6bf4441.html</link>
+      <description>The Dance of Silent Strategies - Read more about the latest content.</description>
+      <pubDate>Fri, 22 Aug 2025 10:52:27 +0200</pubDate>
+      <guid>65e55737-aeb4-4547-966d-f4acdbe8e58a</guid>
+      <dc:date>2025-08-22T10:52:27Z</dc:date>
+      <feedArticleNumber>9997</feedArticleNumber>
+      <content:encoded>&lt;![CDATA[ &lt;h2&gt;The Dance of Silent Strategies&lt;/h2&gt;&lt;p&gt;As the evening deepened and the city lights began to twinkle like distant stars, the members of the Checkmate Collective settled into their timeless ritual. The boards were arranged with loving care, each piece finding its destined square as if guided by an invisible hand. The atmosphere was thick with comfortable silence, broken only by the occasional gentle tap of a piece being placed or the soft rustle of someone settling deeper into their chair.&lt;/p&gt;&lt;p&gt;Old friendships bloomed quietly across the checkered battlefields. There was something profoundly soothing about the predictable rhythm of the games – the thoughtful pauses, the slow nod of understanding when a particularly clever move was made, the gracious handshake at the end of each match. Time seemed to move differently here, flowing like molasses, sweet and unhurried.&lt;/p&gt;&lt;p&gt;As the night grew later and the games wound down, the collective members would carefully pack away their pieces, each one a small treasure returning to its velvet-lined home. They would exchange gentle goodnights and drift back into the world, carrying with them the peace of the evening's quiet battles. The Checkmate Collective would wait patiently for their return, ready to offer its gift of tranquil competition and silent camaraderie once again.&lt;/p&gt; ]]&gt;</content:encoded>
+    </item>
+    <item>
+      <title>Test Name 20250822 Article 1</title>
+      <link>https://mrbiddz.github.io/production_rss_feeds/test_name_neu/articles/9663057997e94d12.html</link>
+      <description>The Gathering of Minds - Read more about the latest content.</description>
+      <pubDate>Fri, 22 Aug 2025 11:52:27 +0200</pubDate>
+      <guid>cb277e71-c805-4d5c-af7d-d5063edfcfea</guid>
+      <dc:date>2025-08-22T11:52:27Z</dc:date>
+      <feedArticleNumber>9998</feedArticleNumber>
+      <content:encoded>&lt;![CDATA[ &lt;h2&gt;The Gathering of Minds&lt;/h2&gt;&lt;p&gt;In a quiet corner of the city, where the evening light filtered through tall windows like golden honey, there existed a special place known as the Checkmate Collective. It wasn't marked by any grand sign or bustling crowds, but rather by the gentle whisper of wooden pieces gliding across polished boards and the soft murmur of contemplative voices.&lt;/p&gt;&lt;p&gt;Here, in this sanctuary of strategic thought, minds from all walks of life would gather as the day slowly surrendered to dusk. There was Elena, the retired librarian whose fingers moved across the chessboard with the same delicate precision she once used to turn ancient pages. Beside her sat Marcus, a young artist who saw each game as a canvas of infinite possibilities, his eyes reflecting the warm glow of the overhead lamps.&lt;/p&gt;&lt;p&gt;The collective had formed naturally, like a gentle stream finding its path through a meadow. No one could quite remember who had first suggested it, but somehow, every evening at seven, the same familiar faces would appear. They would settle into their comfortable chairs, the soft creak of wood welcoming them home. The outside world, with its hurried pace and endless noise, seemed to fade away as they entered this realm of quiet concentration and peaceful competition.&lt;/p&gt; ]]&gt;</content:encoded>
     </item>
   </channel>
 </rss>
