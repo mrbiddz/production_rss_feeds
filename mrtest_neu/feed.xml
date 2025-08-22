@@ -6,14 +6,34 @@
     <description>Sleepy Story content tailored for Adults - MrTest</description>
     <language>en</language>
     <copyright>Copyright 2025 MrTest</copyright>
-    <lastBuildDate>Fri, 22 Aug 2025 12:55:47 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 12:58:21 +0200</lastBuildDate>
     <pubDate>Fri, 22 Aug 2025 12:55:47 +0200</pubDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <ttl>90</ttl>
     <dc:publisher>MrTest</dc:publisher>
     <dc:language>en</dc:language>
     <dc:rights>Copyright 2025 MrTest</dc:rights>
-    <dc:date>2025-08-22T12:55:47Z</dc:date>
+    <dc:date>2025-08-22T12:58:21Z</dc:date>
     <dc:source>MrTest</dc:source>
+    <item>
+      <title>MrTest 20250822 Article 1</title>
+      <link>https://mrbiddz.github.io/production_rss_feeds/mrtest_neu/articles/11e97decdbaa4fc3.html</link>
+      <description>The Quiet Corner Where Dreams Begin - Read more about the latest content.</description>
+      <pubDate>Fri, 22 Aug 2025 12:48:21 +0200</pubDate>
+      <guid>92885105-e948-47fb-aa95-6d710189b77c</guid>
+      <dc:date>2025-08-22T12:48:21Z</dc:date>
+      <feedArticleNumber>10000</feedArticleNumber>
+      <content:encoded>&lt;![CDATA[ &lt;h2&gt;The Quiet Corner Where Dreams Begin&lt;/h2&gt;&lt;p&gt;In a peaceful neighborhood where the evening light filters gently through tall oak trees, there stands a small, unassuming building with warm golden windows. This is where the Checkmate Collective calls home—a sanctuary where minds come together in the most serene of pursuits. As twilight settles over the street, you can hear the soft whisper of wooden pieces gliding across polished boards, accompanied by the gentle tick of old grandfather clocks marking time in their unhurried way.&lt;/p&gt;&lt;p&gt;The collective began as a simple idea shared between old friends who sought refuge from the bustling world outside. They dreamed of creating a space where the ancient game of chess could be played not for competition or glory, but for the pure meditation it offers. Here, beneath the soft glow of reading lamps, members gather each evening as shadows grow long. The atmosphere is thick with contemplation, where every move is considered with the patience of falling leaves. The walls are lined with weathered chess sets from around the world, each one telling its own quiet story of games played and wisdom shared. In this haven, time moves differently, flowing like honey through peaceful moments of strategic thought.&lt;/p&gt; ]]&gt;</content:encoded>
+    </item>
+    <item>
+      <title>MrTest 20250822 Article 2</title>
+      <link>https://mrbiddz.github.io/production_rss_feeds/mrtest_neu/articles/9b019563b6c94e37.html</link>
+      <description>The Evening Ritual of Gentle Minds - Read more about the latest content.</description>
+      <pubDate>Fri, 22 Aug 2025 12:58:21 +0200</pubDate>
+      <guid>0f014e4e-5c75-46aa-8ee2-09fcb44bbe4e</guid>
+      <dc:date>2025-08-22T12:58:21Z</dc:date>
+      <feedArticleNumber>9999</feedArticleNumber>
+      <content:encoded>&lt;![CDATA[ &lt;h2&gt;The Evening Ritual of Gentle Minds&lt;/h2&gt;&lt;p&gt;As night deepens around the Checkmate Collective, the ritual unfolds with the same soothing rhythm it has followed for countless evenings. Members arrive quietly, hanging their coats on wooden pegs worn smooth by years of use. The floorboards creak gently underfoot, a comforting sound that speaks of home and belonging. Sarah, the collective's gentle keeper, prepares chamomile tea in delicate porcelain cups, the steam rising like whispered prayers in the lamplight.&lt;/p&gt;&lt;p&gt;Pairs form naturally, drawn together by an invisible understanding. Conversations flow in hushed tones about opening moves and endgame strategies, but more often about life's quieter moments—gardens tended, books read, grandchildren visited. The chess games themselves become secondary to the peaceful communion of minds at rest. Pieces move with deliberate slowness, each player savoring the luxury of unhurried thought. Outside, the world rushes past, but within these walls, the Checkmate Collective has created something precious—a pocket of tranquility where the soul can breathe. As the evening draws to a close, members pack away their sets with the same reverence one might show when closing a beloved book, knowing tomorrow will bring another opportunity for this gentle gathering of hearts and minds.&lt;/p&gt; ]]&gt;</content:encoded>
+    </item>
   </channel>
 </rss>
