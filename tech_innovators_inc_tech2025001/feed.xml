@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Tech Innovators Inc: Technology News Content for Software Developers</title>
+    <link>https://mrbiddz.github.io/production_rss_feeds/tech_innovators_inc_tech2025001/feed.xml</link>
+    <description>Technology News content tailored for Software Developers - Tech Innovators Inc</description>
+    <language>en</language>
+    <copyright>Copyright 2025 Tech Innovators Inc</copyright>
+    <lastBuildDate>Fri, 22 Aug 2025 10:49:11 +0200</lastBuildDate>
+    <pubDate>Fri, 22 Aug 2025 10:49:11 +0200</pubDate>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <ttl>90</ttl>
+    <dc:publisher>Tech Innovators Inc</dc:publisher>
+    <dc:language>en</dc:language>
+    <dc:rights>Copyright 2025 Tech Innovators Inc</dc:rights>
+    <dc:date>2025-08-22T10:49:11Z</dc:date>
+    <dc:source>Tech Innovators Inc</dc:source>
+  </channel>
+</rss>
