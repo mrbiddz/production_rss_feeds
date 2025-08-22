@@ -6,14 +6,34 @@
     <description>Sleepy Story content tailored for Adults - Test Name</description>
     <language>en</language>
     <copyright>Copyright 2025 Test Name</copyright>
-    <lastBuildDate>Fri, 22 Aug 2025 12:12:53 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 12:44:29 +0200</lastBuildDate>
     <pubDate>Fri, 22 Aug 2025 12:03:09 +0200</pubDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <ttl>90</ttl>
     <dc:publisher>Test Name</dc:publisher>
     <dc:language>en</dc:language>
     <dc:rights>Copyright 2025 Test Name</dc:rights>
-    <dc:date>2025-08-22T12:12:53Z</dc:date>
+    <dc:date>2025-08-22T12:44:29Z</dc:date>
     <dc:source>Test Name</dc:source>
+    <item>
+      <title>Test Name 20250822 Article 2</title>
+      <link>https://mrbiddz.github.io/production_rss_feeds/test_name_neu/articles/ca047cf0eefc42a6.html</link>
+      <description>A Journey Across Gentle Waters - Read more about the latest content.</description>
+      <pubDate>Fri, 22 Aug 2025 10:44:29 +0200</pubDate>
+      <guid>824c0089-4411-4687-99a0-d7ddb82ea426</guid>
+      <dc:date>2025-08-22T10:44:29Z</dc:date>
+      <feedArticleNumber>10000</feedArticleNumber>
+      <content:encoded>&lt;![CDATA[ &lt;h2&gt;A Journey Across Gentle Waters&lt;/h2&gt;&lt;p&gt;When Cristiano was just twelve years old, like a leaf carried by a calm stream toward its destiny, he left the embracing arms of Madeira for mainland Portugal. The move to Sporting Lisbon was both frightening and magical, like stepping through a doorway into a dream. Far from his family's loving warmth, he found solace in the rhythm of training, the meditative repetition of perfecting his craft under Portugal's soft evening skies.&lt;/p&gt;&lt;p&gt;Years flowed by like a peaceful river, carrying him from Sporting to the misty shores of Manchester, where United's red jersey became his second skin. The English rain fell gently on Old Trafford's hallowed grounds as he learned to dance with the ball in ways that seemed almost celestial. Then, like a bird following ancient migration paths, he was drawn to the sun-drenched fields of Madrid, where the Santiago Bernabéu became his temple of dreams.&lt;/p&gt;&lt;p&gt;In the twilight of his European journey, he found himself in Turin's quiet elegance, before the call of home drew him back to Manchester's familiar embrace, and finally to the warm, welcoming sands of Saudi Arabia. Each destination was a chapter in a bedtime story written by destiny itself, where every goal scored was like a gentle lullaby sung to millions of dreaming hearts around the world.&lt;/p&gt; ]]&gt;</content:encoded>
+    </item>
+    <item>
+      <title>Test Name 20250822 Article 1</title>
+      <link>https://mrbiddz.github.io/production_rss_feeds/test_name_neu/articles/204d24da78a548bb.html</link>
+      <description>The Dreamer from Madeira - Read more about the latest content.</description>
+      <pubDate>Fri, 22 Aug 2025 11:44:29 +0200</pubDate>
+      <guid>4300b713-93f0-46b2-a69e-ab687311b2da</guid>
+      <dc:date>2025-08-22T11:44:29Z</dc:date>
+      <feedArticleNumber>9999</feedArticleNumber>
+      <content:encoded>&lt;![CDATA[ &lt;h2&gt;The Dreamer from Madeira&lt;/h2&gt;&lt;p&gt;On a gentle island in the Atlantic Ocean, where the waves whisper against volcanic shores, a young boy named Cristiano was born in the quiet town of Funchal. The year was 1985, and the February air carried the soft scent of ocean mist through the humble streets of Madeira. His family lived simply, his father working as a gardener, tending to the island's lush greenery with patient hands. His mother, a caring cook, filled their small home with warmth and the comforting aroma of traditional Portuguese meals.&lt;/p&gt;&lt;p&gt;Young Cristiano would drift off to sleep each night, dreaming of something greater beyond the peaceful shores of his island home. The sound of his own heartbeat seemed to echo the rhythm of a bouncing ball, even in his quietest moments. His childhood was painted with the golden hues of sunset football games on dusty fields, where barefoot children chased their dreams as the day slowly melted into evening. The gentle trade winds would carry his laughter across the terraced hillsides, where banana trees swayed in their eternal dance. In those early years, surrounded by the tranquil beauty of Madeira, a spark was quietly growing – a dream that would one day carry him far from these serene shores, but never far from his heart.&lt;/p&gt; ]]&gt;</content:encoded>
+    </item>
   </channel>
 </rss>
